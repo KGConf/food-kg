@@ -10,7 +10,7 @@ A food KG for learning how to build a KG
 ## Data
 __Online Recipe Data__. [[Kaggle](https://www.kaggle.com/andromi/online-recipes)]
 
-__Recipe Ingredients Dataset__.[[Kaggle(https://www.kaggle.com/kaggle/recipe-ingredients-dataset?select=test.json)]
+__Recipe Ingredients Dataset__.[[Kaggle](https://www.kaggle.com/kaggle/recipe-ingredients-dataset?select=test.json)]
 
 __data.world__.[[Link](https://data.world/datasets/food)]
 
@@ -27,5 +27,6 @@ __The Foodome: Building a Comprehensive Knowledge Graph of Food__.[[Link](https:
 
 ## Knowledge graph
 __FoodKG: A Semantics-Driven Knowledge Graph for Food Recommendation__.[[Link](https://foodkg.github.io/index.html)][[Github](https://github.com/foodkg/foodkg.github.io)][[Paper](https://www.cs.rpi.edu/~zaki/PaperDir/ISWC19.pdf)]
+
 __FoodOn: A field to fork ontology__.[[Link](https://foodon.org/)]
 
